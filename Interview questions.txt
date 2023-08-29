@@ -1,0 +1,1123 @@
+Self interduction:
+
+GOODMORNING SIR/MADUM
+    iam very exciting to interduce my selfs to you
+   my name is vamsi krishna,iam from karempudi.
+ i have done my b.tech in the streame of EEE from bapatla engineering college.and
+ i have done my intermediate from vasavi junior college.
+ i have done my schooling from vivekananda high school in karempudi.during my school days 
+i have learned leader ship qualities,decipline.
+
+iam a active person,eagarly to learn new things
+my hobbies watching t.v and listning music.
+my short term goal is to get a job MNC like you.where i can improve my skills and my knowledge.
+my long term goal is to be a respectable position where i work.
+greatest achivement: getting a interactual mail from the ..... company
+ is my greatest achivement.
+i have a butiful family 
+my fathers name is mohan rao he is an hindhu prest
+my mother name is malleswari.she is an home maker. where a chance to share my personl things
+i have sister,who is working with Colins Airospace.she always motivated to me.
+thats all about me .thanku for giving this opportunty express my self.
+
+
+strength: leader ship qualities,decipline,ability to work in team
+
+weekness: ihave not able to say "no"
+          lack of patience
+          lack of time management
+          open communicator.
+
+Managing conflict:
+              
+Listen actively
+work to gethere
+focus on the future
+be creativity
+Maintain confidance
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Hi sir good morning
+my self vamsikrishna 
+i having overall experience 1.1 yr experience in both manual automation testig.
+while cmg tools i have knowledge on  Postman for API testing, Ready API,Test complete. iam having basic knowledge on SOAP UI
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+--> API Questions: 
+
+ --> what is collection in postman
+     collection is nothing but it is set of requests group to gethere.you can run of whole group of request just single click.
+
+ --> What is Groovy script?
+     the groovy script is used to generate and provide the data into the groovy test request.it is used to verify the groovy response. it can be used for set
+     of script property different levels. such as request test step and test case and test suite.
+
+ --> what is payload?
+     payload is nothing but body of the request in response message.send and recive in different formats like json formats.
+
+ --> tell me about scopes as well variables?
+     there are globel variables,local variable it is allow you to access data between collections requests and test scripts  are avalible workspace.
+
+ --> what is an API?
+     api stands for application programming interface.that is useful for communication between different software system.
+
+ --> mention the what are http methods?
+     get: Request resource of the server,
+     post: create new resource on the server
+    ,put: update an existing resource on the server
+    ,delete: removes the resource of server   
+    ,options,head
+
+ --> mention different between POST AND PUT?
+     POST: post request is used for creating a resource. it allows client to create resource without knowing the URL of the new resource
+     PUT: put request is used for both creating and updating the new object in the data base if resource already exists the put will updsate resource.
+     PATCH: patch is nothing but apply the particular modification resource.
+
+ --> Mention which makeup language can be used in restful web api?
+     JSON and XML are two makeup languages that can be used.
+
+ -->difference between soap and rest?
+    
+ --> what is the rest?
+     rest is stands for representational state transfer.and architrectural style basedon (HTTP) hyper texttransfer protocol developed web base application
+
+ --> what is API testing?
+    it is one of the challenge type of testing.if we miss certain use cases of api testing.
+
+ --> what is the protocol do rest API
+     REST api uses the HTTP protocol to communicate the clients. this allows REST APIs easily deployed over the internet. since http is the same peotocol that
+     is used for web pages.
+
+ --> Test automation process?
+     Automation type
+     automation plan
+     automation tool
+--------------------------------------------------------------------------------------------------
+why .....
+i want to work in a top MNC companies like Wipro.i can improve my skills and knowledge.
+-----------------------------------------------------------------------------------------------
+ Name:
+Detection of Transmission Line Fault in the Presence of STATCOM using Wavelets. 
+
+Description:
+The main objective is to detect the fault on a Transimission line is used a  WAVELET TRANSFORM in the presence of FACTS device. 
+
+v Three phase currents are monitered at both ends of the Transimission line by global positioning system synchronizing clock. 
+
+v Fault index is calculated based on the sum of local and remote end detail coefficients and compared with threshold value to detect the fault. 
+
+v Proposed technique is tested for various faults and fault inception angles with and without STATCOM device. 
+
+v Simulation results are presented showing the selection of proper threshold value.
+ 
+ wavelet transform technique is applied to detect fault in the transmission line with
+flexible alternating current transmission (FACTS) device. Presence of FACTS device
+change the system impedance and hence makes it difficult to detect faults on the line
+which may result into maloperation of relay.
+
+  Wavelet transforms, which is very fast and sensitive to high frequency signal is used to
+extract transients in these line currents for fault detection. Fault index is calculated based
+on the sum of local and remote end detail coefficients and compared with threshold
+value to detect the fault.
+
+  We have used the STATCOM device I.e,tested for various faults and fault inception
+angles with and without static synchronous compensator (STATCOM) device. 
+
+ Simulation results are presented showing the selection of proper threshold value for
+fault detection.
+ 
+conclusion:
+------> An algorithm for detection of faults in the Transimission line Is
+        proposed based on transient component extraction of currents.
+-----> v Fault index calculated from detail –I coefficients of currents are
+        clearly separable for fault and healthy phases. 
+------>v This provide an easy selection of threshold to detect fault in the line.
+-------> v Simulation results presented for various faults at different distances
+           and inception angles shows that a common threshold is set to detect
+           a fault in the line for with and without STATCOM In the system.
+
+ 
+                                                  
+                                                     -----0-------
+2. what is data?
+A: a pice of useful information.
+
+3.what is data base?
+A: wherevestore the data.
+
+4.What is DBMS
+A: data base management system.DBMS is program that you can store the data.retrives and modifiers data in request of DATA BASE.
+   DBMS DIFFERENT TECH development,maintanance of the database.
+
+5.SQL other name?
+A: SEQUAL(Structured english query language)
+
+6.H DBMS:
+A:store the data hirarchal manner.
+ 
+7.N DBMS:
+A: store the data hirarchal manner and networking structure.
+
+8.R DBMS:
+A:STORE THE DATA TABULAR MANNER
+------------------------------------------------------------------------------------------------------------------------
+9. Diff types of SQL
+    DDL,DML,DTL,DCL,DQL
+    1.DDL(DATA DEFINITION LANGUAGE)
+      Create  : it is used to create a table and coloum name and table name.
+      Alter   : it is used to add a coloum and delete a coloum.
+      rename  : it is used to change table name.
+      truncate: it is used to delete the data inside the table.
+      Drop    : it is used to delete the table.
+    2.DML(DATA MANUPULATION LANGUAGE)
+      Insert  : it is used to insert the data.
+      update  : it is used dueto the change the data present table.
+      delete  : it is used to particular data.
+    3.DTL(DATA TRANSLATION LANGUAGE)
+      Commit  : store the data inside parminantly.
+      save point: it is used to save the data tempararly
+      roll back: it is used to back to the save point.
+    4.DCL(DATA CONTROL LANGUAGE)
+      Grant   : it is used to give permission see our data.
+      Revok   : it is used to take back the parmission.
+    5.DQL(DATA QUERY LANGUAGE)
+      it is used to search the data inside the databse.
+--------------------------------------------------------------------------------------------------------------------
+10. Aliasing:
+A: for giving name do there displaying another name is called alising.
+     Ex: Sal as salery
+         col name as alising name.
+-------------------------------------------------------------------------------------------------------------------------
+11.literal:
+A: litral nothing but data.
+   there are three types of literals
+   number:420
+   character: 'HELLO'
+   Data :'23-11-1999'
+---------------------------------------------------------------------------------------------------------
+12.Concat:
+A: itis used to merge the data
+   EX: select ename||job
+       from emp;
+----------------------------------------------------------------------------------------------------------
+13.Arthematic operator: +,-,*,/
+   relational operator: >,<,<=,>=.
+   logical operator: and,or..
+   special operator: between,if,is,is null....
+------------------------------------------------------------------------------------------------------------
+14.Between operator:
+A: whatever you have any range of value that time will makes use the operator.
+-------------------------------------------------------------------------------------------------------------
+15.in operator: 
+A: it is used due to the multiple or condition for a single coloum that is called in operator.
+  EX: selecty * 
+      from emp 
+      where job;
+--------------------------------------------------------------------------------------------------------------
+16. is null operator:
+A: it is used to the verify the null data present in the table
+   EX: coloum name is null
+       comm is null
+       mgr is null;
+--------------------------------------------------------------------------------------------------------------- 
+17.Like operator:
+A: like opearator is a wild card operator it is used wildcatd operations.there are two wildcard operations
+    1.% ----> 0-N no.of characters
+    2._ ----> used to represent no.of characters.
+------------------------------------------------------------------------------------------------------------------
+18.logical operators
+A. it is uses the combinational and other special characters.
+   Ex: select *
+       from emp
+       where comm is not null;
+------------------------------------------------------------------------------------------------------------------
+FUNCTIONS
+19. function is operations.
+     functions are two types of functions
+     1.single row functions: it is used due to the each row input and procedural each row output.
+     2.multi row functions: it is used due to the different outputs only one output.
+ single row functions are
+ 20. length:
+ A: it is used to the findout the length of the data.
+    EX: select ename length(ename) from emp;
+-----------------------------------------------------------------------------------------------------------------------
+21. Lower:
+    It is used to the lower case to upper case
+     Ex: select ename lower(ename) from emp;
+----------------------------------------------------------------------------------------------------------------------
+22.upper:
+    It is used to lower case to upper case.
+    Ex: select ename,upper(ename) from emp;
+--------------------------------------------------------------------------------------------------------------------
+24.int cap
+   int cap is used to the first letter capital and remaining will lower case.
+    Ex: select ename intcap(ename) from emp;
+-------------------------------------------------------------------------------------------------------------------
+25.concat:
+A: it is used due to the merge the data
+    EX: select ename,jobb concat(ename,job) from emp;
+-------------------------------------------------------------------------------------------------------------------
+26. nested functions:
+A: one function is called inside and other is called nested function.
+  Ex: select ename,job concat(ename,job) length(ename,job)
+        from emp;
+------------------------------------------------------------------------------------------------------------------
+27. Replace
+A: it is used due to the replace sequence of the character in string 
+    replace(ip1,ip2,ip3)
+      Data
+      replace to the 
+      char replace
+replace(java,'a','b')= jbvb.
+---------------------------------------------------------------------------------------------------------------------
+28.Sub string 
+A: it is used due to the partial data or sub data
+    (ip1,ip2,ip3)
+    data
+    starting position 
+    number of character
+select ename substr(ename,1,3) from emp;
+-------------------------------------------------------------------------------------------------------------------
+29.instring
+A: it is used due to the display the position of characters
+ (ip1,ip2,ip3,ip4)
+data
+search the char
+starting position 
+occurence
+select ename instr(ename,1,1) from emp;
+------------------------------------------------------------------------------------------------------------------
+30.System time stamp fun: select sys time stamp from dual;
+31.system date fun: select  6yr from dual;
+32.trunc: truc(data)
+33.round: its give decimal value output integer value
+34.mod: mod(data)
+-------------------------------------------------------------------------------------------------------------------
+Multi row functions:
+1.max(sal)  : max is used uptain max present in the coloum.
+2.min(sal)  : min is used uptain min present in the coloum.
+3.avg(sal)  : avg is used uptain avg present in the coloum.
+4.sum(sal)  : sum is used uptain sum present in the coloum.
+5.count(sal): count is used uptain count present in the coloum.
+ ex: select max(sal) from emp;
+--------------------------------------------------------------------------------------------------------------------
+JOINS:
+joins are used due to the two or more tables will displying single table is known as joins
+                                                  (or)
+joins are used due to the will disply the multiple tables at a time is known as joins 
+joins are used diff types
+ eqvi joins,non eqvi join, self join,cross join/cortisian join,outer join
+1.eqvi join/inner join:
+A: eqvi joins are due to the two are more tables will equalto operator is used eqvi joins.
+                                               (or)
+   inner join is used due to the common information different tables.
+EX. Oracle:
+    select * from emp,dept where emp,deptno=dept,deptno;
+    ANSI:
+    select * from emp join dept on emp,deptno=dept,deptno;
+------------------------------------------------------------------------------------------------------------------------
+2.non-eqvi join:
+A: it is used due to the two or more tables equal to operator not used then it is known as non eqvi join
+   ex:  select * from emp,salgrade where emp between hisal and lowsal;
+ANSI:EX:select * from emp join salgrade on emp between hisal and low sal;
+------------------------------------------------------------------------------------------------------------------------
+3.self join:
+ it is used to joining the table self is known as self join
+   select * from e.emp,m.emp where e.mgr=m.empno;
+   select * from e.emp join m.emp on e.mgr=m.empno;
+------------------------------------------------------------------------------------------------------------ 
+ 4.cross join:
+  it is used to two are more tables does't provides joing condition is default is known as cross join
+    select * from emp crossjoin deptno;
+------------------------------------------------------------------------------------------------------------------
+5.outer join
+    it is used due to the inner join and left outer join
+6.left outer join:
+    it is use the due to the innerjoin and left outer data left side information.
+ ex: select * from emp,dept where emp,deptno=dept deptno(+);
+7.right outer join:
+    it is used due to the inner join right outer join leftside of the data.
+ ex: select * from emp where emp,deptno(+)=dept deptno;
+8.full outer join:
+  it is used due to the right and left side of the present in table
+  EX: select * from emp,full outer join dept  on emp,deptno=dept,deptno;  
+-------------------------------------------------------------------------------------------------------------------------------
+                                                    
+
+
+
+
+
+
+
+
+                                                               Core JAVA
+
+
+--> java is a simple programming language
+--> it is write code and compilation and debugging very easy
+--> and it helps create reusable code.
+--> java has a more features.
+
+platform indipendent: During compilation of programs convert into byte.using the byte code and we can run the application anywhere windows,mac,linux,etc..
+open soure: a program in which source code is avalible to the general public use and modification from original design of free of cost is called open source.
+multithredding: java is a multithredding. it enables a program to perform several task simultaniously.
+more secure:it provides the application firevals between the applicationand the computer
+portable: write once run anywhere
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+--> OOPS:(OBJECTED ORIENTED PROGRAMMING Structure)
+      It is used to program methodology and program stetargy it is reqired to full fill the project requirement.
+       it is used to 4 pillers are there  
+
+ -->CLASS: Class is noting but collection of methods collection of objects
+       Syntax: (first type class name and click ctrl +space)
+                public class Bank {
+                  } 
+               //Bank is a class name
+               //public: is a access specifier.
+
+ --> METHOD: Set of actions to be performed. 
+         Syntax: public void dummy {
+                 } // dummy is methos name
+           Main
+                 public static void main(String[] args) {
+                  }
+    ->Public: public is a Access modifier it is used to call any method or class by JVM from anywhere.
+    ->static: without creating object we are access the Static method
+    ->Void: void is return type we can not return the method that time we can use the void
+    ->main: main is the name of method
+    ->(String[] args): It is used to command line arguments
+
+ --> OBJECT: Run the memory allocation
+             using object we call the any method
+         Syntax: (Class name)(object name) = new(class name)
+
+ -->Inheridance: it is used to one class to the methods and variabls are the anothere class rewriting is called inheridance.
+ -->abstraction: it is used to hiding of unnesssary data.
+ -->encapsulation: it is used to secure data (structure of creatingfolders)
+ -->polymorphism: one thing multiple behaviour.
+---------------------------------------------------------------------------------------------------------------------------------
+inheritance types:
+ 1. single level:  one parent class is directly support into one chaild class using extended keyword.
+ 2. multi level :  one chaild class and morethen one parent class.
+ 3. hierarchal  :  one parent class and more then one chaild class.
+ 4. multiple    :  one class inheritance two parent classes at the same time.
+ 5. hybrid      :  it is combination of single and multiple inheridance.
+----------------------------------------------------------------------------------------------------------------------------------
+         Method overloading                                                                         method overriding
+  1. method over loading develop multiple methods same name           1.method over riding  multiple methods same name  
+     different methods is called method overloading.                    different arguments is called method overriding.
+
+  2.over loading is subselected to single class                       2.over riding is inheritance compulsary.
+
+  3.over loading is change the method signature.                      3.over riding is method signature must be same.
+
+  4.we can change the method hadder over loading.                     4.we can't change the method hadder while overriding.
+  
+  5.over loading will be achive compile time.                         5.over riding will be achived run time.
+
+  6.over loading is an example of compile time polymorphism.          6.over riding will be example of run time polymorphism 
+
+  7.example for overloading is payment travelling                     7.example for over riding is change the callertune.
+-----------------------------------------------------------------------------------------------------------------------------------
+Casting:
+ it is used due to the one primitive data type into another data type is called casting.
+1. widening
+2. narrowing
+   
+1. widening:
+   
+   it is used due to the process small primitive data type into another data type is called widening.
+
+2. narrowing.
+  
+   it is used due to the Assigning bigger primitive data type into smaller is called narrowing.
+---------------------------------------------------------------------------------------------------------------------------------
+ encapsulation:
+ the process of wrapping methods and variables into single unit is called encapsulation.
+EX: class
+    {
+      data member
+    }
+ ----------------------------------------------------------------------------------------------------------------
+polymorphism:
+  
+ one thing multiple behaviour is called polymorphism.
+there are two types of polymorphism
+1.compile time polymorphism: it is used to during compile time multiple behaviour is called compile time polymorphism.
+2.run time poly morphism: it is used run/excute one thing multiple behaviour is called run time polymorphism.
+------------------------------------------------------------------------------------------------------------------
+40. Data types:
+ 
+Data types is the some useful information.
+data types are two types 
+1.primitive data type: it is used to the fixd the memory size
+2.non-primitive data type: it is used due to the does't fixed memory size.
+-------------------------------------------------------------------------------------------------------------------
+41. Variables
+
+ variables is used due to the store the data
+ it is used to 2 tyoes
+1.variable declaration: it is used due to the reserving one block in our own memory.
+2.variable intialization: it is used due to the store the value in reserving block.
+--------------------------------------------------------------------------------------------------------------------
+42. Operator over loading:
+ 
+  out of all arthematic operation and less operation is called operation over loading.
+---------------------------------------------------------------------------------------------------------------
+43.Identifier:
+
+ identifier means name of the program for identification.
+Ex: program name,class namr,variable,method...
+-----------------------------------------------------------------------------------------------------------------
+44.Key word:
+  
+  these are reserve word or predefine word.
+  Access key word : public,private,static....
+  conditional keyword: else if switch break....
+  iterative: for,while
+  class level: class,package,import,
+  Exception : try,catch.
+  data types :int short,long
+  othere: voliate,transuant
+-----------------------------------------------------------------------------------------------------
+45.Prime number:
+ 
+ a number is called prime number it is devided into 1 it self
+   code:
+   public class div
+   {
+   public static void main(string args[])
+   {
+     int num=11,count=0;
+     if(i=1;i<11;i++)
+    {
+        if(num%i==0)
+     {
+        count++;
+       }
+if (count==2)
+sop(num+" is pn);
+else
+sop(num+" is not pn);
+}
+}
+---------------------------------------------------------------------------------------------------------------
+46.Reverse of a number:
+  
+public class reverse
+{
+public static void main(string args[])
+{
+int num123,rev=0.rem;
+while(num>0)
+{
+rem=rev%10;
+num=num/10;
+rev=rev*10+rem;
+}
+sop(rev);
+}
+}
+------------------------------------------------------------------------------------------------
+47. fibnoci series:
+ 
+ it is a series of two numbers 0&1 other thirs bnumber is even number
+code:
+public class div
+{
+public static void main(string args[])
+{ 
+int f1=0,f2=1,f3;
+sop(f1+" "+f3);
+for(i=1;i<12;i++)
+}
+f3=f1+f2;
+sop(" "+f3);
+f1=f2;
+f2=f3;
+}
+}
+--------------------------------------------------------------------------------------------------------
+48. swappin of two numbers
+  code:
+public class swapping
+{
+public static void main(string args[])
+{
+int a=10,b=20,c=?;
+sop("before swapping_"+a" "+b");
+c=a;
+a=b;
+b=c;
+sop("after swapping_"+A" "+B):
+}
+}
+---------------------------------------------------------------------------------------------------------
+49.Armstrong number:
+   a number is called armstrong number it is individually qube and factorial of num same result same number is called armstrong number.
+public class arm
+{
+public static void main(string args[])
+{
+int num=123;arm=0;temp=num;
+while(num>0)
+{
+rem=rem%10;
+num=num/10;
+arm(rem*rem*rem*arm)
+}
+if(num==arm)
+sop(temp+" is the armstrong number");
+else
+sop(temp+" is the not armstrong number");
+}
+}
+-------------------------------------------------------------------------------------------------------------
+50. Factrial:
+code:
+public class Fac
+{ 
+public static void main (string args[])
+{ 
+int num=5,fact=1;
+for(i=5;i>=1;i++)
+{
+fact=fact*i;
+}
+sop(fact);
+}
+--------------------------------------------------------------------------------------------------------------
+51. Java platform independent language or not
+ yes java is independant language develop under one o.s to another o.s.
+-------------------------------------------------------------------------------------------------------------
+52.Jvm is the particular platform independent
+  java is particular the file particular o.s.
+-------------------------------------------------------------------------------------------------------------
+53.Components of JDK
+   jDk means java developement kit
+   jdk is the develop and requirement and excute application.
+JRE: JAVAruntime environment
+  it is used to require support to the excute develop
+JVM: java virtual machine
+  it is used responce every java program.
+----------------------------------------------------------------------------------------------------------------
+54.Explain do while loop
+   int 
+    do
+    {
+       //body of the loop
+    }
+    while(condition);
+-----------------------------------------------------------------------------------------------------------------
+55.different between pre and post increment
+  pre                                                               post
+1.inc                                                             1.assign
+2.assign                                                          2.inc
+3.update                                                          3.update
+-----------------------------------------------------------------------------------------------------------------
+56.breake key word
+ to stop the operation and jvm will out of the body
+------------------------------------------------------------------------------------------------------------------
+57.for loop
+  for(int i=1;i<1;i++)
+{
+sop(i);
+}
+------------------------------------------------------------------------------------------------------------------
+58.features of java
+   object oriented,roubist,secure,simple,platform independent,familier.
+------------------------------------------------------------------------------------------------------------------
+59.difference between c and java
+            C                                                                     JAVA
+1. it procedural programing language                                   1.it is object oriented language
+2. c is more procedural oriented                                       2.java is data oriented.
+3. c is generally break down the functions                             3.java is break down the object.
+4. c platform dependent                                                4.java is independent
+5. c supports pointers                                                 5.java does not suppoerts pointers.
+---------------------------------------------------------------------------------------------------------------------
+ module :2
+
+   method without argument:
+  method with arguments is the due to the will never write a logic in side class and write a logic inside main method
+  Ex: access specifier static/non-static return type
+       {
+          body of method
+       }
+
+method with arguments:
+method without arguments is the due to the area of the rectangle area of square method are multiple times same output is the
+method with arguments
+Ex: public static void add();
+
+method with return type:
+whenever we want to our method return type of the particular valuewith return type.
+Ex: public static int()
+{
+body of the operation
+}
+
+method overloading:
+it is developing multiple method same different methods is called method over loading.
+------------------------------------------------------------------------------------------------------------------------
+51.Variables
+   Variables are two types 
+   local variables
+   global variable
+   
+ local variable:
+ variables are declared inside main method(main() and userdefine)with in the scope of class it is called local variables.
+ it access of the inside method not outside method
+
+ global variable:
+ global variables are due to the declared outside main method(main() and user define ) with in the class such a variables is called 
+ global variables.
+
+ 1.static variables
+ 2.non-static variables
+ 
+ 1.static variables:
+   Variables which are declared out side in the method with in the class such a variables is called static variable.
+  Ex: class ex
+        {
+        static datatype var=value;
+         main();
+}
+
+2.Non-static variable:
+  variables which are declared outside the method with in the class does't contains such a variables is called non-static variable.
+   Ex: class ex
+         {
+           static datatype var=value;
+         }
+}
+-----------------------------------------------------------------------------------------------------------------------------
+52.what is array
+A. it is used to collection of data.
+---------------------------------------------------------------------------------------------------------------------------
+53.          static                                                                     non-static
+   1.static means single copy                                                     1.non-static means doble copy
+   2.static members is present static pool                                        2.non-static members present in object.
+   3.static members can't be inherited                                            3.non-static members are can be inherited.
+   4.static method can't be over ridden                                           4.non-static members can be overroden.
+--------------------------------------------------------------------------------------------------------------------------
+54.      Constuctor:
+   constructor is a special type of method which excuted whenever we created an object.
+ Ex: Access modifier constructor name
+{
+body of the method
+}
+----------------------------------------------------------------------------------------------------------------------
+55. 1.constructor does't have any arguments is called no-argument constructor.
+    2.constructor does the any arguments is called paremenant constructor.
+----------------------------------------------------------------------------------------------------------------------
+56.constructor chaining:
+   the process of one constructor from another constructor is called constructor chaining.
+------------------------------------------------------------------------------------------------------------------------
+57.constructor over loading 
+ the process of developing  multiple constructor and same constructor name different methods is called 
+  constructor over loading.
+-------------------------------------------------------------------------------------------------------------------------
+58.object class
+  object class is the parent class it is predefined class or user defined class.
+EX: class A
+    {
+      public static void main(string args[])
+     {
+      }
+}
+--------------------------------------------------------------------------------------------------------------------------
+59.String class
+   it is a method of object class .it provides complete information.
+Ex; public string to string()
+{
+return package name,class name
+}
+--------------------------------------------------------------------------------------------------------------------
+60. collection and frameworks:
+   
+   The collection in java  is frame work that provedes store the manupulation of an objects.
+ 
+ frame work:
+
+the it providess readymade architecture
+it represents a set of classes and interfaces.
+
+it is collection frame works are the represents unified architecture store the manupulation of group of objects.
+classes(arraylist,vector,linked list), interfaces(set,list,deque).
+-----------------------------------------------------------------------------------------------------------------------
+61. Exception handling
+    exception handling is the powerful machanism of the handle run time error and norma;l flow of the exception handling
+    Exception handling is abnormal condition.
+-------------------------------------------------------------------------------------------------------------------------
+62. print max element in arr
+   class max
+{
+   public static void main(string args[])
+   int arr[]={10,324,45,90,9808};
+   int max=arrays,stream(arr).max().getas;
+   sop("largest given array is"+max);
+}
+--------------------------------------------------------------------------------------------------------------------
+63.pattern printing:
+  for(i=1;i<row;i++)
+{
+for(j=1;j<1;j++)
+{
+sop("+");
+}
+sop();
+}
+------------------------------------------------------------------------------------------------------------------
+64.bubble sort
+    bubble sort(arr,size)
+    for i=0 to n-i-1
+    for j=0 to n-i-2
+    if arr[j]>arr[j+1]
+    swap arr[j] and arr[j+1]
+------------------------------------------------------------------------------------------------------------------
+65.queue
+   data structure designed to queue.
+-------------------------------------------------------------------------------------------------------------------
+66.linked list
+   linked list is the part of collection frame work present in java.util package.
+    this class implementation of the linked list data structured.
+--------------------------------------------------------------------------------------------------------------------
+67. why do you Wipro?
+  
+   this is one of the fast growing, a well-reputed company in the market, 
+   employe oriented also your provides oppoertunity in future and  well defined adaptable atmosphere.
+ ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+68. prime number
+   
+ public class 
+{
+public static void main(string args[])
+{
+int num=15;
+int count=0;
+for(int i=1;i<=num;i++)
+{
+if(num%1=0)
+{
+count ++;
+}
+}
+if(count==2)
+sop(num+"is prime number");
+else
+sop(num+"is not prime number");
+}
+}
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+69.Different between interface and abstract class
+          
+               abstract class                                                                                    interface
+1. abstract class is does't support multiple inheritance                                              1.interface support multiple inheritance
+2. abstarct class is final and non-final,static and non-static                                        2.interface is the static and final variables.
+3. abstract class is abstract keyword is used declare abstract class.                                 3.the interface keyword is used declare interface.
+4.as abstract class can be extended using keyword extends                                             4.an interface can be implemented using keyword"implemets".
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+                                                                             HR questions
+
+
+Sai krishna krishna
+9:58 PM (3 minutes ago)
+to me
+
+1.)Tell me about yourself. 
+Hello sir, madam good morning…………………..
+
+. why do you Wipro?
+  
+   this is one of the fast growing, a well-reputed company in the market, 
+   employe oriented also your provides oppoertunity in future and  well defined adaptable atmosphere.
+
+2.)Why Should I hire you ? 
+As a fresher, I am having less practical knowledge but have the ability to grab things quickly and I believe in improving myself day to day is key of 
+my success and growth of the company. I will be working with full efficiency and getting work done at the assigned time. 
+
+3.)Why do you want to work at our company? 
+It would be a great honor to work with one of the most reputed organization. I'm sure that I'll learn many more things and will surely work with the team
+ members and do my best. 
+
+4.)Where do you see yourself five years from now? 
+After 5 years, I would be in more professional and better than what I am now. 
+I also would like to lead the team and make an ideal for my team members. 
+And also be make myself confidence and trustable employee as a company expect from me.
+
+5.)How long would you expect to work for us if hired? 
+I will work with your company till the day, I feel that I am not giving the best result which is required by your company, after trying my level best. 
+
+6.)What motivates you to do good job? 
+Responsibility towards work motivates me the most, and my aim within any company is to move up to greater levels of responsibility to achieve each 
+goal with better responsibilities
+
+7.)What is the difference between hard work and smart work? 
+HARD WORK : GIVES EXPERIENCE. 
+SMART WORK : COMES FROM EXPERIENCE
+
+8.)What is the difference between confidence and over confidence? 
+A person is confident when he know the fact better, A person is overconfident when he know the facts better than others. 
+" I can do it "- confidence, " Only I can do it "- overconfidence. 
+" I am suitable for this job "- confidence, " I am the only one suitable for this job "- 
+overconfidence. 
+" Trusting yourself "- confidence, " Underestimating others "- overconfidence. 
+
+
+
+9.)What is more important to you: the money or the work?
+Money is always important, but the work is most important for me.Money does not give us experience but work does. 
+And this money will be over one day but our experience of doing work is not. 
+ 
+
+
+ 10.)Would you lie for the company?
+It totally depends upon the situation. If lying is the last option to tackle the situation for my company I have to do it but only if it is the last,
+ otherwise I will use my creativity to deal with the situation because in life we always have the second option. We just need to find it and make it count.
+
+11.)How do you feel about working nights and weekends? 
+Company growth is obviously employees growth, Whenever a company needs me, I will be there either in nights or weekends. 
+
+12.)What does success mean to you?
+Success is not giving up, learning from your past mistakes and constantly working towards improving yourself—personally or professionally.
+
+13.)Is there anything which makes you different from other candidates?
+Although, I am not familiar with the others whom you are interviewing for this position. I am sure many talented people applying for the job. 
+But because of my background and the problem-solving skills, I considered myself to be a strong candidate for this position.
+ 				(OR)
+I understand that success is not always guaranteed but there is still hope, and I never lose the faith, whether I succeed or not. I think this power makes me stand alone from all other candidates.
+
+14.)Explain, how would you be an as set to this organization?
+As I'm a fresher, I'll be passionate about my work, and if given a chance I'll be ready to expose myself into different sectors of work into the industry,
+ and would be faithful to the company always."
+
+15.)Are you applying for other jobs also?
+Say that you have applied for similar positions at all the top companies:
+If you have applied for other jobs, then say 'Yes I have' applied.
+
+16.)What is your dream company like?
+My dream company is a place that would provide me loads of opportunities to learn and grow and help me harness my abilities to contribute to the overall
+ growth of the company. I value such a company that will recognize and appreciate performance and based on what I have researched about your company,
+ I believe this place can offer me these opportunities.
+
+
+
+
+17.)How quickly do you adapt to new technology?
+I can adapt quickly to new circumstances.
+Since I am clear about my job role and I am mentally prepared to take up challenges, I feel I have the capacity to learn fast and apply my new knowledge.
+During my student life, I had to clear new papers and projects in every semester and thoroughly enjoyed doing it.
+Similarly, I will enjoy picking up new technologies in my professional life as well.”
+
+18.)Explain the difference between group and team. Are you a team player?
+“Yes, I am. I like to nurture and build team spirit.. 
+A group consists of individual players whereas a team consists of integrated and coordinated players. A group tends to focus more on the final objective
+ rather than the individually assigned objectives. A team wishes to achieve the goal collectively with the cooperation and support of each other. 
+
+19.)On a scale of one to ten, rate me as an interviewer. 
+Sir/Mam, I do not have the audacity to rate a highly qualifies person like you. However, if you must insist, I would give you a 10 because I am really
+ grateful that you gave me the opportunity to sit for this interview. This has been a really pleasant experience for me because you listened to whatever 
+I said with patience and it is a huge thing for me. Thank you so much. 
+
+20.)Do you have any questions for me? 
+Thanks sir for giving me this opportunity to ask you a question. 
+I want to know more about this job profile, and if anything I can learn/improve which can benefit the company.
+
+
+
+
+
+
+*Questions on Your Strengths,Hobbies,Mentioned in Your Resume 
+   ……………………………
+
+
+
+And
+ What do you know about our company’s product/services?
+ What did you like most about the job description
+ Why did you decide to apply to this role?
+ How you feel about working late or during the weekends?
+ Have you faced any challenging situation? How did you handle it?
+ Where do you see yourself in the next five years?
+ What is more important to you: the money or the work?
+ What do you know about this organization?
+What are your achievements in life?
+
+
+
+wipro CEO :Thierry Delaporte 
+Founded: MH>Hasham premji  29 nov 1945
+owner: Azim premji
+revinew: 75000
+  Western india vegetable product limited
+
+why IT 
+ 
+quick employement and opportunites in every sector, multiple carrier paths, high sal, and easy enter this industry without a college degree.
+
+
+
+manage stress:
+eat well,manage time priortize your activities can help you use your time well, excersise daily, sit a side time your self. 
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+                                                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                  Manual Testing
+
+
+
+
+1. What is manual testing?
+A. Manual Testing is an application without using tool. manual testing is nothing but application with in the intent of finding the bugs.
+                                                           (or)
+
+   what is the automation testing
+   Automation testing is testing or technique is using automation tool write and execute the teststers testscripts and cases.
+   The main goal is automation testing is to reduced due to the no.of test cases to be run manually and not eliminate manual to gether.
+   benfit:
+   ->It execute tasks automatically
+   ->incress effectiveness
+   ->efficiency
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+2. STLC(software testing life cycle)
+   It is a procedural to test software application.
+   1.Requirement analysis
+   2.Test planning
+   3.Test case development
+   4. test environment setup
+   5. test execution 
+   6.Test cycle closure.
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+3. black box testing?
+A. black box testing is the user interface of an application.it is done by the test engineers.
+Types of black box testing.
+
+1.Functional testing:
+  it is an writing scripts and validating the business logic and functionality expected from the application.
+                                                      (or)
+   each and every component is in side of an application to ensure that it is working as per requirement.
+
+2.integration testing:
+  it is testing of an data flow between two or more dependent modules.
+
+3.System testing:
+  testing is an application it uses the end to end.just like users.
+
+4.Smoke testing:
+  it is testing of an basic and critical features of an application.doing throughtesting.like fun,inte,system testing.
+
+5. exploratory testing: 
+  it is testing of an application by exploring it throushly.when there requirement.
+
+6. performance testing:
+  it is the responce time of an application by applying load.
+types: 
+     1.Load testing
+     2.stress testing
+     3.volume testing
+     4.soak testing
+
+7. Compatibility testing:
+  testing of an application with different hardwares and softwares platforms.
+
+8.globalization testing:
+   it is testing of an application which developed the different languages.
+
+9.usability testing:
+  testing the users friendlines of an application.
+
+10.reliability testing:
+   it is testing the functionality of an application for a long duration of time.
+
+11.Accessibility testing:
+   it is an testing of an appplication which is developed for physically challenge people.
+
+12.retesting:
+   it is an defect fix of an application.it is done after developed fixes the defects.
+
+13.Regression testing:
+  it is testing the impact area of an application.
+
+14.Static testing:
+   Testing which is done an documentation is static testsing. 
+  
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+4. White box testing?
+A. white box testing is an source code of an application. it is done by the developer.
+
+--> Gray Box testing?
+A: it is the testing of an source code and user interface of an application. 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+5. What is agile model? explain?
+A: Agile model is nothing but incremental or interative methodology.It is is keeps on handle those requirements change develop those rquirement change and 
+   Testing those rquirement change finally to give software to the customer with in a short span of time then it is called Agile model.
+ 
+   incremental: incremental is nothing but added to the modules then it is known as incremental.    module: Features.
+   iterative: iterative is nohing but process will be repeat and repeat then it is known as Iterative. Processs: design will be done,develop will be done,test.
+
+   Advantage: requirement changes the any stage of requirement.
+              Main goal of the customer satisfaction.
+
+   Disadvantage: there will be less focus on design and documentation.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+6. SDLC(Software development Life cycle)
+    It is procedural to develop the software rquirement.
+
+  Water fall model: When customer freezes the requirement.
+  
+  Spiral Model: when customer give requirement part a part.
+
+  V and V model: (verification and validation) Customer needs high quality product.
+
+  Prototype: When customer confused with his own requirements.
+
+  Agile Model: When customer wants Applicationveryfast and with less time.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+7. Why testing is important?
+A. every application is developed for business purpose. testing is not done it can lead defects/bugs.it will spread negative in the market due 
+   to many people stop the using an application.
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+8. different operating systems.
+A.Microsoft windows, macOS, Linux, Android, IOS, windows7, ChromeOS, blackbarry, etc....
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+9. Different browsers
+A. Firefox, Chrome, safari,opera, microsoft edge, internet explorer,mozila,chromium etc...
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+10.BUG:
+A.It is an informal name of an defects.
+  Whenever  a defect is found by the test engineers.
+ it should be raised to the developers.once the developers accept the defects.it is termed as bug.
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+11.Error?
+A. Mistake the source code of an is called error.
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+--> jenkins is a free and open sourcecontinuous integration
+    it is an we applicaytion.
+
+
+
+//*[@id="content"]/ul/li[1]/a
+
+//*[@id="content"]/ul/li[22]/a
+
+ //*[contains(text(),'Frames')]

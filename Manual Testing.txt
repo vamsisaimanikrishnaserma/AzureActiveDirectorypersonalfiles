@@ -1,0 +1,165 @@
+1. What is manual testing?
+A. Manual Testing is an application without using tool. manual testing is nothing but application with in the intent of finding the bugs.
+                                                           (or)
+
+   what is the automation testing
+   Automation testing is testing or technique is using automation tool write and execute the teststers testscripts and cases.
+   The main goal is automation testing is to reduced due to the no.of test cases to be run manually and not eliminate manual to gether.
+   benfit:
+   ->It execute tasks automatically
+   ->incress effectiveness
+   ->efficiency
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+2. STLC(software testing life cycle)
+   It is a procedural to test software application.
+   1.Requirement analysis
+   2.Test planning
+   3.Test case development
+   4. test environment setup
+   5. test execution 
+   6.Test cycle closure.
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+3. black box testing?
+A. black box testing is the user interface of an application.it is done by the test engineers.
+   Black box testing is a tsting which is functionalities of the software application are tested with without knowing code structure and implementation details and internal paths.
+   Black box testing is mainly focused on the input and output of the software application and based on the requirements and specifications.
+ 
+ 
+
+
+Types of black box testing.
+
+
+
+1.Functional testing:
+  it is an writing scripts and validating the business logic and functionality expected from the application.
+                                                      (or)
+   each and every component is in side of an application to ensure that it is working as per requirement.
+
+2.integration testing:
+  it is testing of an data flow between two or more dependent modules.
+
+3.System testing:
+  testing is an application it uses the end to end.just like users.
+
+4.Smoke testing:
+  it is testing of an basic and critical features of an application.doing throughtesting.like fun,inte,system testing.
+
+5. exploratory testing: 
+  it is testing of an application by exploring it throushly.when there requirement.
+
+6. performance testing:
+  it is the responce time of an application by applying load.
+types: 
+     1.Load testing
+     2.stress testing
+     3.volume testing
+     4.soak testing
+
+7. Compatibility testing:
+  testing of an application with different hardwares and softwares platforms.
+
+8.globalization testing:
+   it is testing of an application which developed the different languages.
+
+9.usability testing:
+  testing the users friendlines of an application.
+
+10.reliability testing:
+   it is testing the functionality of an application for a long duration of time.
+
+11.Accessibility testing:
+   it is an testing of an appplication which is developed for physically challenge people.
+
+12.retesting:
+   it is an defect fix of an application.it is done after developed fixes the defects.
+
+13.Regression testing:
+  it is testing the impact area of an application.
+
+14.Static testing:
+   Testing which is done an documentation is static testsing. 
+  
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+4. White box testing?
+A. white box testing is an source code of an application. it is done by the developer.
+
+--> Gray Box testing?
+A: it is the testing of an source code and user interface of an application. 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+5. What is agile model? explain?
+A: Agile model is nothing but incremental or interative methodology.It is is keeps on handle those requirements change develop those rquirement change and 
+   Testing those rquirement change finally to give software to the customer with in a short span of time then it is called Agile model.
+ 
+   incremental: incremental is nothing but added to the modules then it is known as incremental.    module: Features.
+   iterative: iterative is nohing but process will be repeat and repeat then it is known as Iterative. Processs: design will be done,develop will be done,test.
+
+   Advantage: requirement changes the any stage of requirement.
+              Main goal of the customer satisfaction.
+
+   Disadvantage: there will be less focus on design and documentation.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+6. SDLC(Software development Life cycle)
+    It is procedural to develop the software rquirement.
+
+  Water fall model: When customer freezes the requirement.
+  
+  Spiral Model: when customer give requirement part a part.
+
+  V and V model: (verification and validation) Customer needs high quality product.
+
+  Prototype: When customer confused with his own requirements.
+
+  Agile Model: When customer wants Applicationvery fast and with less time.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+7. Why testing is important?
+A. every application is developed for business purpose. testing is not done it can lead defects/bugs.it will spread negative in the market due 
+   to many people stop the using an application.
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+8. different operating systems.
+A.Microsoft windows, macOS, Linux, Android, IOS, windows7, ChromeOS, blackbarry, etc....
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+9. Different browsers
+A. Firefox, Chrome, safari,opera, microsoft edge, internet explorer,mozila,chromium etc...
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+10.BUG:
+A.It is an informal name of an defects.
+  Whenever  a defect is found by the test engineers.
+ it should be raised to the developers.once the developers accept the defects.it is termed as bug.
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+11.Error?
+A. Mistake the source code of an is called error.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+12.What is waterfall model?
+A: The water fal model is a classic model is used in system developement life cycle to create  a system with a linear and seqential approach.
+
+    --> Requirement Gathering
+	--> Analysis Read
+	--> System Design
+	--> Implementation
+	--> Deployment
+	--> Maintanance
+	
+Adv: Esy to use and simple and understandable
+     works well and smaller projects requirement clearly.
+     process and output of each phase are clearly mentioned in the document.
+
+Dis: Change the requirement can't be accommodated in any phase.
+     Risk and uncertainly are high.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+13.Spiral model?
+A. The spiral model is systems developmet life cycle method is used for risk management that combines the iterative development
+   process model with element of the waterfall model.
+
+Adv: It is best development model risk analysis risk handling at any phase
+Dis: It is not suitable for low risk projects.
+     It is not suitable for small projects as it is expensive.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+14. What is the V and V model (Verification and Validation)?
+A. Verification: verification is the process evaluating the software product under SDLC To check we are right in the track of creating final projects  
+   Validation: Validation is the process of evaluating the final product to check software business needs.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+15. what is assertion?
+A: 
+	 
+

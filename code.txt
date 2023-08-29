@@ -1,0 +1,23 @@
+test NG
+Maven jars
+natural
+apche poi
+
+
+	driver.findElement(By.xpath("//a[contains(text(),'REGISTER')]")).click();
+		driver.findElement(By.xpath("//input[@name='firstName']")).sendKeys("Mani");
+		driver.findElement(By.xpath("//input[@name='lastName']")).sendKeys("Krishna");
+		driver.findElementByXPath("//input[@name='phone']").sendKeys("7396563076");
+		driver.findElementByXPath("//input[@name='email']").sendKeys("saikrishnakrishna657@gmail.com");
+		driver.findElementByXPath("//input[@name='address1']").sendKeys("Guntur");
+		driver.findElementByXPath("//input[@name='city']").sendKeys("Karempudi");
+		driver.findElementByXPath("//input[@name='state']").sendKeys("Andrapradesh");
+		driver.findElementByXPath("//input[@name='postalCode']").sendKeys("522614");
+		driver.findElementByXPath("//select[@name='country']");
+		driver.findElementByXPath("//input[@id='email']").sendKeys("Vmasikrishna");
+		driver.findElementByXPath("//input[@name='password']").sendKeys("Pinkrose123*9");
+		driver.findElementByXPath("//input[@name='confirmPassword']").sendKeys("Pinkrose123*9");
+		driver.findElementByXPath("//input[@name='submit']").click();
+		driver.findElementByXPath("//a[contains(text(),'Flights')]").click();
+		driver.findElementByXPath("//input[@value='oneway']").click();
+		driver.findElementByXPath("//a[contains(text(),'Flights')]").click();

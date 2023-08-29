@@ -1,0 +1,177 @@
+1st option : this will comes under interduce other engineer
+3rd option : the application which is not presented in the gallry the we call it as non-gallery application.
+2nd option: which i have created in the i have integrated the application azuere active directory as a non gallery application. Because this T application not avalible in the gallery 
+
+once i have integrated the application that look like name of the application 
+Home >> Enterprise application >> properties >>
+The name of the application is listed and Logo of the application 
+the home page URL ia automatically created  
+user Acess URL is created and Application ID will be created 
+ this Uniq ID for Each application Object Id Also all application is Uniq This will also get created automatically.
+ 
+ The gallery application which are present in the microsoft gallary. if you wan't integrate choose those application you vcan integrate application azure active Directory
+ 
+ ----> you have created own application you have registerd here. this is only way.if you go with any application which is not presented in the gallery
+ 
+ prerequisite: 
+ 
+ -->The use should be roles : Application admistrator
+                              Application developer
+							  cloud application admiistarator
+							  Globel administaration.
+which have present in the User roles Home >> User >> search in user >> Assigned roles.
+    All this roles have 
+Lets say if i want to any Add roles Add administaration >> select a role click next then its get add another role.
+Ny one role must be needed in oprder to created application. 
+
+Here able to see the APP registration
+Home >> App registration >>New registration 
+
+Here able to see the app registration. this customized application which is called as something like ...Test01
+first i just created name and register 
+
+Name i have registerd in the App registration iam going for the enterprize application checking for the " Name" it will be present in the Enterprize application also
+"Whatever application you have registerd i the app registration those are all application come up in the Enterprize applications only.
+
+Enterprize application supports SAML protocall. SAML(Security Assumption Mark up language) if you have those protocall.
+that you have customized suppose SAML if you go to integrated with the enterprize application 
+
+App rigister: app registration means the application which we create customy integrated
+
+
+n ID OR OAuth an protocol this protocols in the defined and used in the developer end. 
+if you application supports in the openID oAuth protocol 
+
+
+diff:
+EPA: when you have gallery application you can go to gallery application choose in your application the you can add application the it is called as ENA
+
+App register: App registration is something if you have customized application which supports Open ID and Oauth protocol then we can integrate are application
+              then it is called as App registeration.
+			  
+in order to create an application who can be created Enterprize application: Globel administrator, Application admin, application developer, Cloud application.
+                                                                              those 4 roles can be tey can integrate they can application integration with Enterprize application are app registration.
+
+What is SSO (Single sign on)?
+Iam trying to login one of my application. i Enter my username and password in order to login my application.if you configure SSO. you no need to the enter username and password again and again.if you just click
+ on the application autologin to the application if you configure for SSO for the application.
+ 
+How it is configured.:  iwill go to the properties enabled user for the sign in 
+ if i said this option " No " users will not able to access my application.using the URL provided by the application
+
+Application ID and object ID is automatically generated. 
+Assignement required "No" that means no assignement required my application any one in the tenant user can accessmy application 
+Assignement required "Yes" thats means only (users and groups) those user can access my application 
+
+Visible to user if you put it "Yes" this application visble in the my apps portal.
+there are 2 ways access you are application one go to My apps and by entering URL in the browser there 2 ways of access you application. 
+
+Azure license required for SSO:
+-> sso is free feature it doesn't reuired any license. once you have registered in you application able to see the SSO option then sso you have to configure 
+There are 4 types of SSO methods:  1. SAML
+                                   2. Password based SSO 
+								   3. Linked
+								   4. 
+Mosteluy of the customer used SAML of the application
+
+SAML flow:
+open the application- here shown to Basic SAML configuration
+                                    Attributes & Claims
+									
+									
+									
+                                    SAML Certificates
+                                    
+It will ask to me provide URL and identify the URL provide the reply URL  All the URL must and neededgiven to the application by clicking on EDIT.
+
+Identified URL you can see * mark for this this is a mandatory we have to give it 
+where we have give it? we have to give it from the application team. if you have customized application we have to reach customized application ask them to provide URL for my application.
+for gallery application you have each application you have tutorial.
+we have getting URLs from application team.
+
+Attributes & Claims: this will auto populated in AZure if you want to customized.mostely it does't required anything.
+
+SAML Certificate: Cerificate generated from the every 2 yr even if expired Azure will auto renviewd auto backend. you don't need to worry about SAML certificate.
+
+configured from the URL. configuration application as well as.  
+
+Why we use authenticate SSO?
+Me as a user try to access the application. I just enter the Url in the browser. once i enterd Url in the browser.
+user goes to the application "application finds the identity provide to authenticate the user" application will search who is in IDP.google as an IDP, AWS is an IDP, so Azure is an IDP.
+application generated a SAML 2.0 Authn requiest and redirects the user's browsers to the Azure ADa SAML (Single sign on URL). and send the requiest 
+"Azure AD" respective IDP Centere. then Azure AD if user is not signed in AzureAD authenticate the user and generated the a SAML token then Azure AD verify the  user signed in or not. then if it is signed in
+Azure AD Posts the SAML response to the application  via the user's browser.
+so application will verify the SAML response. Then if it is matches Application gives user to sign in then complete sign on page for the user 
+
+Basic SAML configuration?
+Identifier
+Replay Url
+Sign-on Url
+Relay state
+Log out Url
+
+
+
+===========================================================================================================================================================							
+14 - 4 - 23
+
+-> What is Authentication?
+A: verify the user name and password
+
+-> What is the Autherzation?
+A: What kind of user can access the token
+
+-> What is Access token?
+A: 
+9573238891
+
+
+--> Authentication flow in AAD:
+
+     -> (native App is:  this is browser),  (web api is Application,), (autherization end point: /oauth2/v2.0/autherize), (token end point:/oauth2/v2.0/token) 
+       -> pops up a browser dialog request an autherization code indicating the policy to execute
+          (what ever we can accesss the application it goes to the autherization end point 	 
+           (when iam trying to the application integrated with azure then my first request goes to the autherization end point which is presented in the
+            Azure. user authentication validation done then after you will get the autherization code to browser 
+            Then again will reach it to the "Request an O auth bearer token providing the autherization code, that apps client" which i got the Autherization code 1oken end point.			
+			The token end point take and verify the autherization code. token end point return to the Access token and refresh token.
+			
+			Access token: Granted to sign in to the application. contains application data user's information.
+			              Life time 1 hr
+						  it handle the from application data. Aces token we call it as 
+			Identity Token: only verify the Identity user claims
+
+			Refresh token: when access the token expired help of refresh token refresh the Access token. life time revoke.
+
+            Which will enable user to access the application in accesss token is must be needed in order to Access any one of the application Azure.
+            Access token access protected resource. like an application. once you get access token and refresh token. you will go to the application like 
+            WEB api.web applications. web application i have a accesss token please give autheroization to me web application validating the token endpoint.
+            Application validate the token user get acccess application.
+			
+--> Autherization flow?
+    
+      -> (iam trying to access the one of application that is outlook goes to AAD in which autherization end point and token end point. once autherization end point completed 
+           then it goes to the token end point token end point will give you the access token and refresh token both token you will get it here Access token and refresh token 
+           So what it will do Outlook is a client application. it is depending upon the resource (resource is exchange online) you might have coverd conditional access policy.
+           so each application thereis resources. so now you called access token and refresh token from the azure to outlook application.
+           outlook application what will do is it will send access token to the online but refresh token store here only.only it will access the outlook application.		   
+
+
+			
+			what is concern 
+			what are all types SSO we have
+			What are all Protocols
+		
+		user concern: user can accept the concernuser can login 
+		
+		Admin concrn: Admin should accept the concern when this prompt is coming to user.( when user can trying to access application admin has to concern that application to access that user ).
+		
+		
+		permissions also call it as scopes
+		
+		what are all types scopes we having Azure for application?
+		There are 2 types of scopes permission 
+		1 is deligated permission
+		2 is Application permissions
+		
+		--> Each application is a manifest file which containes information. complete information.

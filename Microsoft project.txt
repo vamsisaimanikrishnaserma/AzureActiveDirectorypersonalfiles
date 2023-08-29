@@ -1,0 +1,61 @@
+--> What is the purpose of azure and use of azure?
+A: Azure is a cloud computing platform. it is developed by the microsoft that enables business to build,test, deploy and manage the application and services in the cloud.
+   The pupose of azure is provide a 
+   ->flexable
+   ->Scalable
+   ->Secure
+   and support the digital transformation.
+   
+   The key features:
+   -> compute: Azure provides virtual machine,containers, and serveless computing various applications and workloads in the cloud.
+   -> Storage: Azure offers varity softwares options include object,file,and block storage, as well as data lakes and arhival storage.
+   -> Networks: Azure providesnetworking capability such a virtual networks load balance and DNS management to enable seamless connectivity b/w different component
+   ->Database: Azure offers managed database,azure SQL, database, cosmos DB, my SQL, to support different types of data storages
+   ->AI and machine learning: Azure provides a range of service and tools for building, deploy and managing AI and machine learning models.
+   
+   overall Azure can help organizations to reduce their IT infrastructure costs, improve their agility and scalability and enable faster time-to-market for the application.
+======================================================================================================================================================================================
+--> What do you understand Cloud computing?
+A: Cloudcomputing refers to the usage of Computing resources(servers) purpose of storage, manage, analyzing, and processing the data. here is maintained our own servers.maintained third-party vendors
+   suchas microsoft,AWS, etc..
+   Cloud computing speed of execution, ensures, flexability of resources and easier scalability.
+=======================================================================================================================================================================================
+--> What are the various models in cloud deployment?
+A: Public cloud: in this model infrastructure and owned publically by the cloud providers and there are chances server resource multiple applications.
+   private cloud: here cloud infra structure is owned exclusively by us service is provided by the cloud providers
+   Hybrid cloud: As the name it self says, this model is the hybrid combination of private cloud and the public cloud.
+                 They might include the scenarios of usig on-prmise servers for processing confidentials, sensive data and using public cloud.
+=========================================================================================================================================================================================
+--> What is the cloud computing?
+A: it is platform where we can store and access the data over the internet. we can store and access our data from anywhere in the world.
+========================================================================================================================================================================================
+--> What type of web application can be deplyoed with azure?
+A: microsoft released SDKs for both java and ruby to allow applications written in those languages to place cells to the azure services platform API to the appFabric Services.
+=========================================================================================================================================================================================
+--> Roles of microsoft azure?
+A: web role, worker role, VM role
+=========================================================================================================================================================================================
+-->What are the users of Azure AD?
+A: IT-Admins it helps admins to use azure AD controling to Apps or perform various settings organizations users.
+
+   App Developers- We can implement SSO for our app.setting the permission for  our app to access  API sgor ms graph APIs
+
+   Microsoft office 365, Microsoft 365 AD, Azure AD Tenant  we can manage our users and app directly.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+--> What is Azure AD account?
+A: Azure account is an entity that helps to access Azure service and azure subscription. The azure account creates multiple subscriptions in our account 
+   management purpose.
+================================================================================================================================================================
+--> What is the risk detection?
+A: Risk detection is a helps identifing any activity caused againist user account. it is also part of azure iddentity protection.
+====================================================================================================================================================================================
+--> What is the conditional access in AAD?
+A: conditional access helps accessing resource and complete the actions they are if then statement.
+========================================================================================================================================================
+--> What are the types of Cloud computing in AD?
+A: cloud computing services----> PAAS(Platform as a service)
+                           ----> SAAS(Software as service)
+                           ----> IAAS(Infrastructure As a service)
+=======================================================================================================================================================
+						   
+				 

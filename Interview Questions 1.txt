@@ -1,0 +1,160 @@
+Other Important Questions:
+--------------------------
+
+1.Insprint in Agile:
+--------------------
+-->To develop and automate user stories in the same sprint, is called in-sprint automation.
+-->If there are 4 User stories in a sprint which could be automated then, We will write a skeleton scripts for the User stories 
+   which we are going to automate it in this sprint. 
+-->In a 2 weeks sprint, for 6 days developer will Develop the application and on 7th day the build is delivered to Automation team.
+   After that we will execute the scripts.
+
+
+2.Outsprint or n-1 Sprint:
+---------------------------
+-->To automate user stories for the previous sprint, is called out-sprint automation.
+-->Say there were 4 User stories from previous Sprint (Sprint1) which could be automated. 
+-->I will automate it in Sprint 2, which is called as n-1 or outsprint automation.
+-->In my previous Sprint i.e Sprint 1, I will be working on the framework setup.
+
+
+3.Velocity:
+-----------
+-->Total Number of user story points consider in a particular sprint (We can say 40 Points)
+
+
+4.Capacity:
+-----------
+-->Total no of working days*Total no of resouces*Total number of working hours(PD) = Capacity
+	Capacity= 10*7*8
+
+
+5.Risk Based Testing:
+---------------------
+-->Identifying the functionalities which seems to cause failures to the application and then testing those functionalities.
+
+
+6.Bug Leakage:
+---------------
+-->Bug which is missed by the testing team while testing and if it is found by the end user or customer in Live Environment.
+
+
+7.Bug Release:
+--------------
+-->Releasing the application to the Live Environment with the known bugs then we call it as Bug Release. 
+
+
+8.Defect Age:
+-------------
+-->It is the time interval between date of defect detection and date of defect closure.
+-->Defect Age = Date of defect closure – Date of defect detection
+-->For Examaple, A defect was fonded and reported on 17 May 2020 and it was fixed on 22 May 2020. So the defect age is 5 days.
+
+
+9.HotFix:
+---------
+-->A bug which needs to handle as more than high priority bug and needs to be fix it immediately.
+
+
+10.RTM:
+-------
+-->Requirements Traceability Matrix (RTM) is used to trace the requirements are done by the testing side by matching 
+   the requirement with test cases.
+
+
+11.Test Suite:
+--------------
+-->Test Suite is a collection of test cases.
+
+
+12.Test Strategy:
+-----------------
+-->It is a high-level document which captures the approach on how we go about testing the product and achieve the goals.
+-->It is developed by project manager.
+-->Documents like Test Plan are prepared by keeping this document as a base.
+
+
+13.Test Environment:
+--------------------
+-->It is the combination of hardware and software on which Test Team performs testing.
+
+
+
+
+
+
+
+
+Important Questions:
+---------------------
+
+• 7 principles of software testing?
+• Draw and explain SDLC?
+• Draw and explain STLC?
+• What is the difference between severity and priority?
+• What you mean by test plan, test scenario, test case?
+• What you mean by RTM?
+• Draw and explain defect life cycle?
+• What is difference between functional and non-functional testing?
+• What you mean by usability testing?
+• What is mean by accessibility testing?
+• What are the different automation tools we have in market?
+• What is defect management tool used in your project?
+• Draw and explain water fall model?
+• Difference between regression and re testing?
+• Difference between black box and white box testing?
+• Explain equivalence case partitioning techniques with an example?
+• Explain Decision table with an example?
+• Explain state transition technique with an example?
+• Explain boundary value analysis with an example?
+• Explain error guessing?
+• Difference between formal and informal testing?
+• Explain Ad-hoc testing?
+• What is positive and negative testing?
+• What is test strategy?
+• What is test suite?
+• What is test environment?
+• What is test data?
+• What is test closure (or) sign off?
+• What is unit testing?
+• What is integration testing?
+• What is system testing?
+• What is beta testing?
+• What is smoke testing?
+• What is sanity testing?
+• What is monkey testing?
+• What is security testing?
+• What is performance testing?
+• What is walk- through?
+• What is bug leakage?
+• What is bug release?
+• What is Defect Age?
+• Give an example all the four categories of priority and severity?
+
+
+
+• What is the last userstory/functionality you worked on your project?
+• Write 5 defects which you raised in your project?
+
+
+
+• What is the current sprint you are working?
+• What is the total number of sprints so far in your project?
+• How many test cases we can execute in a day?
+• How many test cases we can prepare in a day?
+• How many automation test scripts we can execute in a day?
+• How many automation test scripts we can prepare in a day?
+
+
+
+
+
+
+
+
+
+
+
+
+
+

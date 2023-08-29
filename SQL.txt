@@ -1,0 +1,211 @@
+2. what is data?
+A: a pice of useful information.
+
+3.what is data base?
+A: wherevestore the data.
+
+4.What is DBMS
+A: data base management system.DBMS is program that you can store the data.retrives and modifiers data in request of DATA BASE.
+   DBMS DIFFERENT TECH development,maintanance of the database.
+
+5.SQL other name?
+A: SEQUAL(Structured english query language)
+
+6.H DBMS:
+A:store the data hirarchal manner.
+ 
+7.N DBMS:
+A: store the data hirarchal manner and networking structure.
+
+8.R DBMS:
+A:STORE THE DATA TABULAR MANNER
+------------------------------------------------------------------------------------------------------------------------
+9. Diff types of SQL
+    DDL,DML,DTL,DCL,DQL
+    1.DDL(DATA DEFINITION LANGUAGE)
+      Create  : it is used to create a table and coloum name and table name.
+      Alter   : it is used to add a coloum and delete a coloum.
+      rename  : it is used to change table name.
+      truncate: it is used to delete the data inside the table.
+      Drop    : it is used to delete the table.
+    2.DML(DATA MANUPULATION LANGUAGE)
+      Insert  : it is used to insert the data.
+      update  : it is used dueto the change the data present table.
+      delete  : it is used to particular data.
+    3.DTL(DATA TRANSLATION LANGUAGE)
+      Commit  : store the data inside parminantly.
+      save point: it is used to save the data tempararly
+      roll back: it is used to back to the save point.
+    4.DCL(DATA CONTROL LANGUAGE)
+      Grant   : it is used to give permission see our data.
+      Revok   : it is used to take back the parmission.
+    5.DQL(DATA QUERY LANGUAGE)
+      it is used to search the data inside the databse.
+--------------------------------------------------------------------------------------------------------------------
+10. Aliasing:
+A: for giving name do there displaying another name is called alising.
+     Ex: Sal as salery
+         col name as alising name.
+-------------------------------------------------------------------------------------------------------------------------
+11.literal:
+A: litral nothing but data.
+   there are three types of literals
+   number:420
+   character: 'HELLO'
+   Data :'23-11-1999'
+---------------------------------------------------------------------------------------------------------
+12.Concat:
+A: itis used to merge the data
+   EX: select ename||job
+       from emp;
+----------------------------------------------------------------------------------------------------------
+13.Arthematic operator: +,-,*,/
+   relational operator: >,<,<=,>=.
+   logical operator: and,or..
+   special operator: between,if,is,is null....
+------------------------------------------------------------------------------------------------------------
+14.Between operator:
+A: whatever you have any range of value that time will makes use the operator.
+-------------------------------------------------------------------------------------------------------------
+15.in operator: 
+A: it is used due to the multiple or condition for a single coloum that is called in operator.
+  EX: selecty * 
+      from emp 
+      where job;
+--------------------------------------------------------------------------------------------------------------
+16. is null operator:
+A: it is used to the verify the null data present in the table
+   EX: coloum name is null
+       comm is null
+       mgr is null;
+--------------------------------------------------------------------------------------------------------------- 
+17.Like operator:
+A: like opearator is a wild card operator it is used wildcatd operations.there are two wildcard operations
+    1.% ----> 0-N no.of characters
+    2._ ----> used to represent no.of characters.
+------------------------------------------------------------------------------------------------------------------
+18.logical operators
+A. it is uses the combinational and other special characters.
+   Ex: select *
+       from emp
+       where comm is not null;
+------------------------------------------------------------------------------------------------------------------
+FUNCTIONS
+19. function is operations.
+     functions are two types of functions
+     1.single row functions: it is used due to the each row input and procedural each row output.
+     2.multi row functions: it is used due to the different outputs only one output.
+ single row functions are
+ 20. length:
+ A: it is used to the findout the length of the data.
+    EX: select ename length(ename) from emp;
+-----------------------------------------------------------------------------------------------------------------------
+21. Lower:
+    It is used to the lower case to upper case
+     Ex: select ename lower(ename) from emp;
+----------------------------------------------------------------------------------------------------------------------
+22.upper:
+    It is used to lower case to upper case.
+    Ex: select ename,upper(ename) from emp;
+--------------------------------------------------------------------------------------------------------------------
+24.int cap
+   int cap is used to the first letter capital and remaining will lower case.
+    Ex: select ename intcap(ename) from emp;
+-------------------------------------------------------------------------------------------------------------------
+25.concat:
+A: it is used due to the merge the data
+    EX: select ename,jobb concat(ename,job) from emp;
+-------------------------------------------------------------------------------------------------------------------
+26. nested functions:
+A: one function is called inside and other is called nested function.
+  Ex: select ename,job concat(ename,job) length(ename,job)
+        from emp;
+------------------------------------------------------------------------------------------------------------------
+27. Replace
+A: it is used due to the replace sequence of the character in string 
+    replace(ip1,ip2,ip3)
+      Data
+      replace to the 
+      char replace
+replace(java,'a','b')= jbvb.
+---------------------------------------------------------------------------------------------------------------------
+28.Sub string 
+A: it is used due to the partial data or sub data
+    (ip1,ip2,ip3)
+    data
+    starting position 
+    number of character
+select ename substr(ename,1,3) from emp;
+-------------------------------------------------------------------------------------------------------------------
+29.instring
+A: it is used due to the display the position of characters
+ (ip1,ip2,ip3,ip4)
+data
+search the char
+starting position 
+occurence
+select ename instr(ename,1,1) from emp;
+------------------------------------------------------------------------------------------------------------------
+30.System time stamp fun: select sys time stamp from dual;
+31.system date fun: select  6yr from dual;
+32.trunc: truc(data)
+33.round: its give decimal value output integer value
+34.mod: mod(data)
+-------------------------------------------------------------------------------------------------------------------
+Multi row functions:
+1.max(sal)  : max is used uptain max present in the coloum.
+2.min(sal)  : min is used uptain min present in the coloum.
+3.avg(sal)  : avg is used uptain avg present in the coloum.
+4.sum(sal)  : sum is used uptain sum present in the coloum.
+5.count(sal): count is used uptain count present in the coloum.
+ ex: select max(sal) from emp;
+--------------------------------------------------------------------------------------------------------------------
+JOINS:
+joins are used due to the two or more tables will displying single table is known as joins
+                                                  (or)
+joins are used due to the will disply the multiple tables at a time is known as joins 
+joins are used diff types
+ eqvi joins,non eqvi join, self join,cross join/cortisian join,outer join
+1.eqvi join/inner join:
+A: eqvi joins are due to the two are more tables will equalto operator is used eqvi joins.
+                                               (or)
+   inner join is used due to the common information different tables.
+EX. Oracle:
+    select * from emp,dept where emp,deptno=dept,deptno;
+    ANSI:
+    select * from emp join dept on emp,deptno=dept,deptno;
+------------------------------------------------------------------------------------------------------------------------
+2.non-eqvi join:
+A: it is used due to the two or more tables equal to operator not used then it is known as non eqvi join
+   ex:  select * from emp,salgrade where emp between hisal and lowsal;
+ANSI:EX:select * from emp join salgrade on emp between hisal and low sal;
+------------------------------------------------------------------------------------------------------------------------
+3.self join:
+ it is used to joining the table self is known as self join
+   select * from e.emp,m.emp where e.mgr=m.empno;
+   select * from e.emp join m.emp on e.mgr=m.empno;
+------------------------------------------------------------------------------------------------------------ 
+ 4.cross join:
+  it is used to two are more tables does't provides joing condition is default is known as cross join
+    select * from emp crossjoin deptno;
+------------------------------------------------------------------------------------------------------------------
+5.outer join
+    it is used due to the inner join and left outer join
+6.left outer join:
+    it is use the due to the innerjoin and left outer data left side information.
+ ex: select * from emp,dept where emp,deptno=dept deptno(+);
+7.right outer join:
+    it is used due to the inner join right outer join leftside of the data.
+ ex: select * from emp where emp,deptno(+)=dept deptno;
+8.full outer join:
+  it is used due to the right and left side of the present in table
+  EX: select * from emp,full outer join dept  on emp,deptno=dept,deptno;  
+-------------------------------------------------------------------------------------------------------------------------------
+                                                    
+
+
+
+
+
+
+
